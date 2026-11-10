@@ -1,9 +1,6 @@
 # 05. Unsupervised Clustering
 
-Bagian ini berfokus pada algoritma pembelajaran tanpa label (unsupervised learning) untuk mengenali pola tersembunyi, segmentasi klaster, dan struktur data.
-
----
+Pembelajaran tanpa label (unsupervised learning) untuk segmentasi kelompok pelanggan dan pengenalan pola data.
 
 ## Topik dan Studi Kasus
-
-- [`shopper-behavior-clustering/`](./shopper-behavior-clustering/): Segmentasi profil pembeli e-commerce berdasarkan intensitas kunjungan dan nilai transaksi menggunakan algoritma K-Means serta evaluasi Silhouette Score.
+- [`shopper-behavior-clustering/`](./shopper-behavior-clustering/): Segmentasi profil pembeli e-commerce berdasarkan intensitas kunjungan dan nilai belanja menggunakan algoritma K-Means dan evaluasi Silhouette Score.
